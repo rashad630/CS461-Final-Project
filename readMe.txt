@@ -1,4 +1,4 @@
-README: 
+README:  (demo video here: https://www.youtube.com/watch?v=qBS4w61-JBc)
 -----------------------
 
 -Whoever wants to be player 1 should select the 5 units when the game starts. Use the right arrow key to cycle through the characters. Press Z to select a unit. Once you have selected 5, whoever is played 2 will have the remaining 5 units to use. If you want to handicap yourself, press Z on a unit that is already selected to use up a selection slot (for example, if player 1 only wants 2 units and player 2 wants 8 units, player 1 should select their 2, then press Z 3 times on either unit they selected).
